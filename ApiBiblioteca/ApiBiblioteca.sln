@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiBiblioteca", "ApiBiblioteca\ApiBiblioteca.csproj", "{4F4B11A6-2AEB-40D8-A2B4-2AC03A733E28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{528F70B2-714D-477C-A18E-B241B0B6CF5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBooks", "TesteBooks\TesteBooks.csproj", "{582612CB-6335-4CFB-9C47-89E4FD667327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4B11A6-2AEB-40D8-A2B4-2AC03A733E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4B11A6-2AEB-40D8-A2B4-2AC03A733E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4B11A6-2AEB-40D8-A2B4-2AC03A733E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4B11A6-2AEB-40D8-A2B4-2AC03A733E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582612CB-6335-4CFB-9C47-89E4FD667327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582612CB-6335-4CFB-9C47-89E4FD667327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582612CB-6335-4CFB-9C47-89E4FD667327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582612CB-6335-4CFB-9C47-89E4FD667327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{582612CB-6335-4CFB-9C47-89E4FD667327} = {528F70B2-714D-477C-A18E-B241B0B6CF5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17CB81DB-1117-4AB7-8B2D-77EB22084D2E}
+	EndGlobalSection
+EndGlobal

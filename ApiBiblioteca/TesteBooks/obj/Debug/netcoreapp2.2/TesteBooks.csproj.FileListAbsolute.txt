@@ -1,0 +1,17 @@
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\TesteBooks.deps.json
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\TesteBooks.runtimeconfig.json
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\TesteBooks.runtimeconfig.dev.json
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\TesteBooks.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\TesteBooks.pdb
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\ApiBiblioteca.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\bin\Debug\netcoreapp2.2\ApiBiblioteca.pdb
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.csproj.CoreCompileInputs.cache
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.AssemblyInfoInputs.cache
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.AssemblyInfo.cs
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.csproj.CopyComplete
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.dll
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.pdb
+C:\Users\Valdinei\Desktop\Projeto\BackendTest\ApiBiblioteca\TesteBooks\obj\Debug\netcoreapp2.2\TesteBooks.csprojAssemblyReference.cache
